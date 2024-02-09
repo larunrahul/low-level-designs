@@ -1,0 +1,11 @@
+rootProject.name = "low-level-designs"
+include("chess")
+include("ratelimiter")
+include("parkinglot")
+include("ride")
+include("snakesandladder")
+include("taskmanager")
+include("ticketmaster")
+include("tictactoe")
+include("trafficsignalmanager")
+include("vendingmachine")
